@@ -1,0 +1,24 @@
+{
+  "name": "image-preview-react",
+  "version": "1.0.1",
+  "description": "simple preview for image with a input file ",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/lart2000/image-preview-react"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "image",
+    "input",
+    "file",
+    "preview"
+  ],
+  "author": "lart2000",
+  "license": "MIT"
+}
